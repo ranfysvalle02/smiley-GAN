@@ -24,7 +24,7 @@ Generative Adversarial Networks, or GANs, are one of the most exciting developme
 
 This back-and-forth pushes both networks to improve continuously, resulting in the generator producing increasingly realistic images over time.
 
-**[Learn more](https://github.com/ranfysvalle02/learning-GAN)**
+**[Learn more about GANs](https://github.com/ranfysvalle02/learning-GAN)**
 
 ## Setting Up Your Environment
 
