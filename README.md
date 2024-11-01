@@ -1,5 +1,7 @@
 # A Hands-On Guide to Generative Adversarial Networks
 
+![](gandemo.png)
+
 ## Table of Contents
 
 1. [What Are GANs?](#what-are-gans)
@@ -597,6 +599,8 @@ def generate_and_compare_images(model: GAN, latent_dim: int, real_images: torch.
 By comparing the two rows, you can visually assess how well the GAN has learned to mimic the real data.
 
 ## Decoding the Outcomes
+
+![](gandemo.png)
 
 ### Observations
 
